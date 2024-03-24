@@ -3,12 +3,12 @@ title: "DMLL: Differential Map aided LiDAR-based Localization"
 collection: publications
 permalink: /publication/DMLL
 excerpt: 'This article presents differential-map-aided LiDAR-based localization (DMLL), a localization framework that combines map-based localization and LiDAR odometry to achieve accurate and reliable robot pose estimation in partially known environments. \[[Video](https://youtu.be/HsY04_7ulgg)\]'
-authors: 'Wu Y., Zhao C., **Lyu Yang**'
 date: 2024-10-13
 venue: 'IEEE Transactions on Instrumentation and Measurement (TIM)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10285531'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 teaser: 'images/dmll-slam.gif'
+authors: 'Wu Y., Zhao C., **Lyu Yang**'
 break: 'yes'
 breakagain: 'yes'
 ---
