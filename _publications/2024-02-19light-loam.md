@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/Light-LOAM
 excerpt: 'This paper propose a light-weight LOAM system by implementing the Graph-Matching based point clouds association. \[[Video](https://youtu.be/cdWClOPjL-4)\]\[[Code](https://github.com/BrenYi/Light-LOAM)\]'
 authors: ''
-date: 2023-07-01
-venue: '2024-02-19'
+date: 2024-02-19
+venue: 'IEEE Robotics and Automation Letters'
 authors: 'Yi S., **Lyu Yang**, Hua L., Pan Q., and ZHao C.'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10439642'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
