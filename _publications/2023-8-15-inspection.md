@@ -7,7 +7,7 @@ date: 2023-10-13
 venue: 'IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMC-S)' 
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10218325'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
-teaser: 'images/dmll-slam.gif'
+teaser: '/images/dmll-slam.gif'
 authors: 'Wu Y., Zhao C., **Lyu Yang**'
 break: 'yes'
 ---
