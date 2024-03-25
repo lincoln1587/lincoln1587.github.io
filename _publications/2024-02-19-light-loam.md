@@ -6,7 +6,7 @@ excerpt: 'This paper propose a light-weight LOAM system by implementing the Grap
 date: 2024-02-19
 venue: 'IEEE Robotics and Automation Letters (RAL)'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10439642'
-authors: 'Yi S., **Lyu Yang**, Hua L., Pan Q., and ZHao C.'
+authors: 'Yi S., **Lyu Yang\***, Hua L., Pan Q., and ZHao C.'
 teaser: 'images/light-loam.gif'
 break: 'yes'
 ---
