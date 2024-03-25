@@ -1,11 +1,11 @@
 ---
-title: "DMLL: Differential Map aided LiDAR-based Localization"
+title: "Vision-Based Plane Estimation and Following for Building Inspection With Autonomous UAV"
 collection: publications
-permalink: /publication/DMLL
-excerpt: 'This article presents differential-map-aided LiDAR-based localization (DMLL), a localization framework that combines map-based localization and LiDAR odometry to achieve accurate and reliable robot pose estimation in partially known environments. \[[Video](https://youtu.be/HsY04_7ulgg)\]'
+permalink: /publication/inspection 
+excerpt: 'In this article, we focus on enabling the autonomous perception and control of a small unmanned aerial vehicle (UAV) for a façade inspection task. Specifically, we consider the perception as a planar object pose estimation problem by simplifying the building structure as a concatenation of planes, and the control as an optimal reference tracking control problem.'
 date: 2023-10-13
-venue: 'IEEE Transactions on Instrumentation and Measurement (TIM)' 
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/10285531'
+venue: 'IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMC-S)' 
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10218325'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 teaser: 'images/dmll-slam.gif'
 authors: 'Wu Y., Zhao C., **Lyu Yang**'
