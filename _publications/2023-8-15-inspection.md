@@ -12,6 +12,6 @@ authors: 'Wu Y., Zhao C., **Lyu Yang\***'
 break: 'yes'
 ---
 This article presents differential-map-aided LiDAR-based localization (DMLL), a localization framework that combines map-based localization and LiDAR odometry to achieve accurate and reliable robot pose estimation in partially known environments. In DMLL, measurement from map-matching are novelly modeled as differential constraints in the factor graph, rather than absolute constraints. This simplifies the fusion process and avoids initial alignment errors. We design uncertainty quantization for both the LiDAR odometry measurement and the map-matching measurement. Furthermore, we design an adaptive decision mechanism that selectively triggers the map-matching module based on the quantified uncertainty of these measurements. This mechanism achieves a balance between resource consumption and localization accuracy while also being capable of detecting and discarding erroneous data, thus improving the overall localization reliability. Our proposed method is extensively evaluated on both public datasets and our own field-collected data. The result indicates that our method can achieve highly accurate localization in practical scenarios.
-\[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10439642)\]\[[Video](https://youtu.be/HsY04_7ulgg)\]
+\[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10218325)\]
 
 <img style="float: center;" src="/images/inspection.png">
