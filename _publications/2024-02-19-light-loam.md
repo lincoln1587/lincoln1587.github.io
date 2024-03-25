@@ -6,7 +6,7 @@ excerpt: 'This paper propose a light-weight LOAM system by implementing the Grap
 date: 2024-02-19
 venue: 'IEEE Robotics and Automation Letters (RAL)'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10439642'
-citation: 'Yi S., **Lyu Yang**, Hua L., Pan Q., and ZHao C. (2024). &quot;Light-LOAM: A Lightweight LiDAR Odometry and Mapping based on Graph-Matching.&quot; <i>IEEE Robotics and Automation Letters</i>. 9(4).'
+authors: 'Yi S., **Lyu Yang**, Hua L., Pan Q., and ZHao C.'
 teaser: 'images/light-loam.gif'
 break: 'yes'
 ---
