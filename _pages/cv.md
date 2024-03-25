@@ -11,35 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Control Theory and Applications, Northwestern Polytechnical University, 2012-2019
+* Visiting Ph.D student in Electrical Engineering and Computer Science, University of California, Riverside, 2016-2017
+* B.S. in Automation, Guizhou University, 2008-2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Winter 2022 - Now: Associate Professor 
+  * Northwestern Polytechnical University
+  * Research Interests: UAV Resilient Navigation in Complex Environments
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2021- Windter 2022: Research Assistant
+  * Northwestern Polytechnical University
+  * Duties included: UAV Safety and Security
+  * Supervisor: Professor Git  
+  * Supervisor: Quan Pan (Prof.)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019 - Spring 2021: Postdoc Research Fellow
+  * Nanyang Technological University
+  * Duties includes: Localization and Navigation in Building Inspection Tasks
+  * Supervisor: Lihua Xie (Prof.)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Robotics Related Programming
+* Control Theory and Applications
+* Robotics Vision
 
 Publications
 ======
