@@ -1,5 +1,5 @@
 ---
-title: "A Survey of Resilient Self-localization for UAV (Cover Article)"
+title: "A Survey of Resilient Self-localization for UAV (封面论文)"
 collection: publications
 permalink: /publication/resilient
 excerpt: ' This paper focuses on resilient self-localization technology for UAVs, starting from the three core elements of perception, estimation and control in the self-localization system loop, emphasizing resilience indicators such as continuity, reliability, and adaptability. The paper reviews and evaluates domestic and foreign research work from the perspectives of redundant information fusion, robust pose estimation and resourceful treatments. The limitations of current UAV self-localization technology under resilience indicators are highlighted, and the technical difficulties of method integration under limited onboard resources are pointed out. Finally, development trends concerning UAV resilient self-localization technology are prospected.'
